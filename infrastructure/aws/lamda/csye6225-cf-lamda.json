@@ -7,7 +7,7 @@
   },
   "s3domain": {
     "Type": "String",
-    "Default": "csye6225-fall2018-nandak.me.tld.csye6225.com"
+    "Default": "csye6225-fall2018-panchalk.me.tld.csye6225.com"
   },
   "name": {
     "Type": "String",
@@ -113,7 +113,7 @@
         	},
          	"Handler": "LogEvent::handleRequest",
          	"Runtime": "java8",
-		"Timeout":25,
+           	"Timeout":25,
            	"MemorySize":256,
          	"FunctionName": {"Ref" : "name"}
        }
