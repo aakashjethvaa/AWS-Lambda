@@ -113,6 +113,8 @@
         	},
          	"Handler": "LogEvent::handleRequest",
          	"Runtime": "java8",
+		"Timeout":25,
+           	"MemorySize":256,
          	"FunctionName": {"Ref" : "name"}
        }
      }
