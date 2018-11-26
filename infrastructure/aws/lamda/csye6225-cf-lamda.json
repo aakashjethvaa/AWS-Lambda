@@ -7,7 +7,7 @@
   },
   "s3domain": {
     "Type": "String",
-    "Default": "csye6225-fall2018-jethvaa.me.tld.csye6225.com"
+    "Default": "csye6225-fall2018-kamathh.me.tld.csye6225.com"
   },
   "name": {
     "Type": "String",
